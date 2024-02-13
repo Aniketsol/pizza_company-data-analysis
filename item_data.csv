@@ -1,0 +1,31 @@
+﻿item_id,sku,item_name,item_cat,item_size,item_price
+it001,PIZZ-CHEE-S,Cheese,Pizza,Small,19.99
+it002,PIZZ-CHEE-M,Cheese,Pizza,Medium,24.99
+it003,PIZZ-CHEE-L,Cheese,Pizza,Large,29.99
+it004,PIZZ-PEPP-S,Pepperoni,Pizza,Small,20.99
+it005,PIZZ-PEPP-M,Pepperoni,Pizza,Medium,25.99
+it006,PIZZ-PEPP-L,Pepperoni,Pizza,Large,31.99
+it007,PIZZ-HAWA-S,Hawaiian,Pizza,Small,21.99
+it008,PIZZ-HAWA-M,Hawaiian,Pizza,Medium,26.99
+it009,PIZZ-HAWA-L,Hawaiian,Pizza,Large,32.99
+it010,PIZZ-DONA-S,Donair,Pizza,Small,23.99
+it011,PIZZ-DONA-M,Donair,Pizza,Medium,29.99
+it012,PIZZ-DONA-L,Donair,Pizza,Large,35.99
+it013,PIZZ-BBQC-S,BBQ Chicken,Pizza,Small,23.99
+it014,PIZZ-BBQC-M,BBQ Chicken,Pizza,Medium,29.99
+it015,PIZZ-BBQC-L,BBQ Chicken,Pizza,Large,35.99
+it016,PIZZ-CHBR-S,Chicken Bacon Ranch,Pizza,Small,23.99
+it017,PIZZ-CHBR-M,Chicken Bacon Ranch,Pizza,Medium,29.99
+it018,PIZZ-CHBR-L,Chicken Bacon Ranch,Pizza,Large,35.99
+it019,SIDE-GARL-R,Garlic Bread,Side,Regular,9.99
+it020,SIDE-CHIC-R,Chicken Wings,Side,Regular,10.99
+it021,SIDE-CAES-R,Caesar Salad,Side,Regular,10.99
+it022,DESS-CHBR-R,Chocolate Brownie,Dessert,Regular,8.99
+it023,DESS-CHCA-R,Cheesecake,Dessert,Regular,8.99
+it024,BEVA-RPE,Pepsi,Beverage,2L,3.99
+it025,BEVA-DPE,Diet Pepsi,Beverage,2L,3.99
+it026,BEVA-7UP,7 Up,Beverage,2L,3.99
+it027,BEVA-RBE,Root Beer,Beverage,2L,3.99
+it028,BEVA-ICT,Iced Tea,Beverage,2L,3.99
+it029,BEVA-GAL,Ginger Ale,Beverage,2L,3.99
+it030,BEVA-DRP,Dr Pepper,Beverage,2L,3.99
